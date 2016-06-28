@@ -2,7 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Quattrocento+Sans);
 
 body {
-  background-color: #979797;
+  background-color: #00ffbf;
   color: #fff;
   margin: 0;
   padding: 0;}
@@ -12,7 +12,7 @@ body {
   margin: 0 auto 30px auto;}
 
 .panel {
-  background-color: #fff;
+  background-color: #f8f8f8;
   color: #666;
   box-shadow: 3px 4px 5px rgba(0, 0, 0, 0.2);
   overflow: auto;}
